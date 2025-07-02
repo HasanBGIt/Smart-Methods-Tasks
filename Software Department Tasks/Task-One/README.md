@@ -11,28 +11,28 @@ The goal of this task is to **design and develop a personal website** that serve
 ### Main Homepage  
 Landing page with personal branding and quick navigation.
 
-![Main Page](./Task-One/main.png)
+![Main Page](./main.png)
 
 ---
 
 ### About Section  
 A brief introduction, background, and key information.
 
-![About Section](./Task-One/about.png)
+![About Section](./about.png)
 
 ---
 
 ### Projects Showcase  
 A gallery of projects with descriptions and links.
 
-![Projects Section](./Task-One/projects.png)
+![Projects Section](./projects.png)
 
 ---
 
 ### Resume Page  
 An embedded or downloadable version of my resume.
 
-![Resume Section](./Task-One/resume.png)
+![Resume Section](./resume.png)
 
 ---
 
