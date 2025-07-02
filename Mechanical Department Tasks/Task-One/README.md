@@ -57,7 +57,7 @@ To better understand the geometry and design, here are several views of the mode
 ---
 
 ## Author
-**Hassan Barmandah**  
+**Hassan**  
 🌐 [My Website](https://hsnhb.social/)  
 🔗 [GitHub](https://github.com/HasanBGIt)  
 🔗 [LinkedIn](https://www.linkedin.com/in/hsnhb/)  
