@@ -1,43 +1,34 @@
-# Personal Website -> https://hsnhb.social
+# My Portfolio Website
 
-## Task Description
-
-The goal of this task is to **design and develop a personal website** that serves as a digital portfolio. This site presents an overview of my background, projects, resume, and other relevant information. All source files and assets are organized and uploaded to GitHub, with this `README.md` documenting the structure and contents.
-
----
-
-## Website Previews
-
-### Main Homepage  
-Landing page with personal branding and quick navigation.
-
-![Main Page](./main.png)
+Welcome to my personal portfolio website repository!  
+This project presents my professional profile, experience, skills, and projects in a clean, responsive web design.
 
 ---
 
-### About Section  
-A brief introduction, background, and key information.
+## About the Project
 
-![About Section](./about.png)
+This portfolio website serves as a digital resume and project showcase, designed to highlight my skills and experience as a Software and AI Engineer. It features:
 
----
+- Responsive navigation menu  
+- About Me section with skills and profile photo  
+- Projects showcase with descriptions and GitHub links  
+- Resume download section  
+- Contact links to GitHub, LinkedIn, and email  
 
-### Projects Showcase  
-A gallery of projects with descriptions and links.
-
-![Projects Section](./projects.png)
-
----
-
-### Resume Page  
-An embedded or downloadable version of my resume.
-
-![Resume Section](./resume.png)
+The website is built using **HTML**, **CSS**, and **JavaScript** with icons provided by Font Awesome.
 
 ---
 
-## Author
-**Hassan Barmandah**  
-🌐 [My Website](https://hsnhb.social/)  
-🔗 [GitHub](https://github.com/HasanBGIt)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hsnhb/)  
+## Screenshot
+
+![Portfolio Screenshot](./public/1.png)
+
+*(Replace this image with your preferred screenshot or photo)*
+
+---
+
+## Installation & Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/HsnBGit/portfolio-website.git
