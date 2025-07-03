@@ -17,7 +17,7 @@ Welcome to my Robotics Engineering internship report. This document outlines the
 
 ## Electronics, Power & IoT Department Tasks
 
-- ✅ : implement a system using an Arduino to control three LEDs based on the input from three buttons – [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-One)
+- ✅ : implement with an Arduino to control three LEDs based on the input from three buttons – [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-One)
 
 ---
 
