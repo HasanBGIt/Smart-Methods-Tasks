@@ -17,13 +17,13 @@ Welcome to my Robotics Engineering internship report. This document outlines the
 
 ## Electronics, Power & IoT Department Tasks
 
-- 🔧 : Design and implement a system using an Arduino to control three LEDs based on the input from three push buttons – [Go to the Task](./Electronics/[FolderName])
+- ✅ : implement a system using an Arduino to control three LEDs based on the input from three buttons – [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-One)
 
 ---
 
 ## Robotics, AI & Data Science Department Tasks
 
-- 🔧 : Train an image recognition model using Teachable Machine, export it in Keras format, and develop a Python script. – [Go to the Task](./AI-DataScience/[FolderName])
+- ✅ : Train an image classification model using Teachable Machine. – [Go to the Task](./Robotics,%20AI%20and%20data%20science%20Department%20Tasks/Task-One)
 
 ---
 
