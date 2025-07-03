@@ -6,7 +6,7 @@ This project demonstrates how to use an **Arduino** to control **three LEDs** ba
 
 ## Circuit Diagram
 
-> ![Arduino Circuit Diagram](./screenshot.png)  
+> ![Arduino Circuit Diagram](./3Input-3Output.png)  
 
 ---
 
