@@ -42,4 +42,12 @@ void loop() {
     digitalWrite(12, LOW);  
   }
 }
+```
+---
+
+## Author
+**Hassan**  
+🌐 [My Website](https://hsnhb.social/)  
+🔗 [GitHub](https://github.com/HasanBGIt)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hsnhb/)  
 
