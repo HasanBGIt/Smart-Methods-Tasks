@@ -6,13 +6,13 @@ This project demonstrates how to control **four servo motors** using an **Arduin
 
 ## Circuit Diagram
 
-> ![Servo Circuit Diagram](./)
+> ![Servo Circuit Diagram](./4-servo.png)
 
 ---
 
 ## Demo Video
 
-> ![Watch the demo](./)
+> ![Watch the demo](https://github.com/user-attachments/assets/509791ee-13c0-4a4a-b79d-399d45772977)
 
 ---
 
