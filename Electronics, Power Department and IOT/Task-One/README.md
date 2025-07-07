@@ -10,6 +10,13 @@ This project demonstrates how to use an **Arduino** to control **three LEDs** ba
 
 ---
 
+## Demo Video
+
+> https://github.com/user-attachments/assets/834c5c54-3aba-4731-9be2-ebb4e80fc90e
+
+---
+
+
 ## Arduino Code
 
 ```cpp
