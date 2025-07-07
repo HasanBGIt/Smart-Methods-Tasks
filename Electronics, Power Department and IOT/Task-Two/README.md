@@ -12,7 +12,7 @@ This project demonstrates how to control **four servo motors** using an **Arduin
 
 ## Demo Video
 
-> ![Watch the demo](https://github.com/user-attachments/assets/509791ee-13c0-4a4a-b79d-399d45772977)
+> https://github.com/user-attachments/assets/509791ee-13c0-4a4a-b79d-399d45772977
 
 ---
 
