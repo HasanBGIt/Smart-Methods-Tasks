@@ -1,5 +1,9 @@
 # Robotics Engineering Internship - Tasks Overview
 
+<p align="center">
+  <img src="https://s-m.com.sa/smtc/td/assets/images/logo/logo.png" alt="SmartMethods Logo" width="400"/>
+</p>
+
 **Company:** [SmartMethods](https://s-m.com.sa/ar/index.html)   
 **Internship Position:** Robotics Engineering Intern  
 **Duration:** 22 June 2025 – 14 Aug 2025  
