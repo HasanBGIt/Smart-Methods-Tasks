@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/63085075-bd86-4e12-ba60-7e47678aac99
 ---
 
 ## Author
-**Your Name**  
-🌐 [Your Website](https://yourwebsite.com)  
-🔗 [GitHub](https://github.com/yourgithub)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+**Hassan**  
+🌐 [My Website](https://hsnhb.social/)  
+🔗 [GitHub](https://github.com/HasanBGIt)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hsnhb/)  
