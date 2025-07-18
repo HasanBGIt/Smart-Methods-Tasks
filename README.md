@@ -17,6 +17,7 @@ Welcome to my Robotics Engineering internship report. This document outlines the
 
 - ✅ : Design a 3D robotic arm model with 5 degrees of freedom (DOF) – [Go to the Task](./Mechanical%20Department%20Tasks/Task-One)
 - ✅ : Design an automated robotic system for food storage without human intervention – [Go to the Task](./Mechanical%20Department%20Tasks/Task-Two)
+- ✅ : Redesign a mechanical joint to improve durability using provided dimensions  – [Go to the Task](./Mechanical%20Department%20Tasks/Task-Three)
 
 ---
 
