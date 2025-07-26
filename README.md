@@ -35,6 +35,7 @@ Welcome to my Robotics Engineering internship report. This document outlines the
 - ✅ : Train an image classification model using Teachable Machine – [Go to the Task](./Robotics,%20AI%20and%20data%20science%20Department%20Tasks/Task-One)
 - ✅ : Implemented various computer vision tasks using OpenCV – [Go to the Task](./Robotics,%20AI%20and%20data%20science%20Department%20Tasks/Task-Two)
 - ✅ : Implemented integration of STT, TTS, LLMs to create a voice assistant – [Go to the Task](./Robotics,%20AI%20and%20data%20science%20Department%20Tasks/Task-Three)
+- ✅ : Implemented and manipulated Turtlesim package in ROS2   – [Go to the Task](./Robotics,%20AI%20and%20data%20science%20Department%20Tasks/Task-Four)
 
 ---
 
