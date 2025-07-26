@@ -27,6 +27,7 @@ Welcome to my Robotics Engineering internship report. This document outlines the
 - ✅ : implement with an Arduino to control three LEDs based on the input from three buttons – [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-One)
 - ✅ : implement with an Arduino to control four servo motors – [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-Two)
 - ✅ : implement with an Arduino a Latching Power Switch and Designing Digital Analog Sensors [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-Three)
+- ✅ : implement with an Arduino a Ultrasonic Sensor Integration and Programming 4 DC Motors [Go to the Task](./Electronics,%20Power%20Department%20and%20IOT/Task-Four)
 
 ---
 
